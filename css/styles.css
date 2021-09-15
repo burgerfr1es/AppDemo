@@ -499,7 +499,7 @@ progress {
 }
 @media (min-width: 1200px) {
   .display-1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
@@ -7825,7 +7825,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #ECE8E1, var(--bs-bg-opacity)) !important;
 }
 
 .bg-dark {
@@ -11283,7 +11283,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #7FC5C2, #245E78) !important;
 }
 
 .font-alt {
@@ -11395,7 +11395,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url("https://cdn.dribbble.com/users/99632/screenshots/11881481/media/c93154ae61e5063729b5f8389b784d1d.gif");
   background-position: center;
   background-size: cover;
 }
@@ -11526,7 +11526,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
-  background-color: #f8f9fa;
+  background-color: #ECE7E2;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
